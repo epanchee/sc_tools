@@ -1,0 +1,10 @@
+mnemonic:
+  "<put your mnemonic>"
+optimizer_image:
+  "cosmwasm/workspace-optimizer:0.12.11"
+node:
+  "https://terra-testnet-rpc.polkachu.com:443"
+prefix:
+  "terra"
+coin_type:
+  330
